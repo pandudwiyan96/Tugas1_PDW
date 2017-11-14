@@ -1,0 +1,54 @@
+*{margin: 0; font-family: calibri,arial;}
+
+a { color: #fff; text-decoration: none; }
+	a:hover { color: #0096c3;}
+	a:active {color: #777 ;}
+
+#BUATKAMU {background-size: cover; background-repeat: no-repeat;}
+
+#JUDUL { color: #000; text-decoration: none; }
+	#JUDUL:hover { color: #0096c3;}
+	#JUDUL:active {color: #777 ;}
+
+body { background-size: 100%; background-attachment: fixed; background-color: #000;}
+
+#TOPBAR { width: 100%; height: 60px; position: relative; margin-top: 5px;}
+	.container { margin: 0 auto; max-width: 1080px; min-width: 980px; position: relative; width: 100%; }
+	.bar{ float: left;}
+	.beda{ color: #fff; position: center;  font-style: none; cursor: pointer;  float: left; list-style: none; padding-left:5px;  padding-top: 20px;}
+	.menu{ color: #fff; position: center;  font-style: none; cursor: pointer;  float: left; list-style: none; padding-left:30px;  padding-top: 20px;}
+	.gambar{height: 35px; padding-top: 12px;}
+	.gambartengah{height: 100px; padding-top: 8%;}
+
+#HOME { height: 100%; color: white;}
+	.juk{font-size: 25pt; padding-top: 15px;}
+	.deskripsi{ width: 700px; }
+	.net { color: #F1C40F;}
+	.bgt{color: #aaa; padding-top: -40px;}
+
+#EMOH {height: 100%; background: #fff;}
+
+#ARTIKEL { height: 90%; color: #CCCCCC; }
+
+#KUY {height: 200px; width:650px; border-radius: 5px; padding: 15px; background-color: #eee; color: #26292e; margin-bottom: 15px;}
+	.gambarkuy{width: 300px; height: 200px; float: left; margin-right: 15px; cursor: pointer; border-radius: 5px;}
+	.gambarkuy:hover{width: 300px; height: 200px; float: left; margin-right: 15px; cursor: pointer; border-radius: 5px; opacity: 0.5;}
+
+#ISINYA {height: 690px; width:650px; border-radius: 5px; padding: 15px; background-color: #eee; color: #26292e; margin-bottom: 15px;}
+
+#YUK {height: 690px; width:335px; border-radius: 5px; padding: 15px; background-color: #eee; color: #26292e; margin-bottom: 15px; float: right;}
+#SLIDE {height: 500px; width: 1090px; margin-bottom: -10px;}
+
+#PENGUMUMAN {height: 30px; width: 1080px; border-top-left-radius: 5px; border-top-right-radius: 5px;padding: 5px; background-color: #000;}
+#PUTIH{border-radius: 5px; background-color: #D4E3EC; width: 900px; height: 25px; color: #000; padding-left: 5px; padding-top: 5px;}
+.niil{float:left; height: 25px; padding-left: 30px; padding-top: 3px;}
+
+#ISI { height: 720px; background-color: #ABABAB; width: 1060px; padding: 15px;}
+	.readmore{background: #000; color: #fff; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; height: 30px; cursor: pointer; padding: 5px; border:none;}
+	.readmore:hover{background: #009bc4; color: #fff; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; height: 30px; cursor: pointer; padding: 5px; border:none;}
+	.readmore:active{background: #777; color: #fff; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; height: 30px; cursor: pointer; padding: 5px; border:none;}
+
+#PUTER { height: 50px; background-color: #000; width: 1090px; padding-top: 30px;}
+#FOOTER { height: 50px; background-color: #000; width: 100%; padding-top: 30px;}
+
+
